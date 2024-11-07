@@ -1,0 +1,1 @@
+powershell -Command "& {Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process -Force;powershell.exe -noprofile -executionpolicy bypass -file ""%~dp0AppDeployToolkitHelp.ps1"""}
