@@ -1,0 +1,1 @@
+powershell.exe -noprofile -executionpolicy bypass -file "%~dp0Deploy-Application.ps1" Install
