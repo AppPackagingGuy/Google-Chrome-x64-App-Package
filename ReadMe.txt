@@ -1,3 +1,4 @@
+(Donload and copy "googlechromestandaloneenterprise64.msi" to the Source folder)
 The package remove all types of Chrome installation (user/system & MSI/EXE).
 The installation command can be used as the command to repair in SCCM.
 
